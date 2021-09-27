@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\Proyectos\Acid\MicroServicios\service-config"/>
+			<item value="E:\Proyectos\Acid\MicroServicios\service-shopping"/>
+			<item value="E:\Proyectos\Acid\MicroServicios\service-customer"/>
 			<item value="E:\Proyectos\Acid\MicroServicios\service-product"/>
 			<item value="E:\Proyectos\Acid\MicroServicios\ms-course-youtube-master\demo01"/>
 			<item value="E:\Proyectos\Acid\MicroServicios\company"/>

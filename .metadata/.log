@@ -914,3 +914,15 @@ org.tigris.subversion.subclipse.core.SVNException: Provided SVN information does
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 17:25:41.812
 !MESSAGE executing callback sts4.classpath.JiPXbdkM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 23:50:08.912
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JiPXbdkM
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 23:50:08.946
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.JiPXbdkM
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 23:50:09.180
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 23:50:09.181
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JiPXbdkM => OK
