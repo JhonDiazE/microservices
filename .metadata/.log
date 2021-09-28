@@ -1352,3 +1352,222 @@ org.eclipse.buildship.core.internal.UnsupportedConfigurationException: Project a
 
 !ENTRY org.eclipse.ui 2 2 2021-09-28 10:48:57.384
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:39:03.261
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:39:03.269
+!MESSAGE classpath=108 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:39:03.275
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-product false 108
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:39:03.275
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:39:03.289
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:43.319
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:43.340
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:43.356
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-product false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:43.378
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:43.440
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:45.152
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:45.161
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:45.168
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-product false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:45.169
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:04:45.179
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:25.502
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:25.512
+!MESSAGE classpath=171 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:25.521
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-customer false 171
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:25.521
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:25.531
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:31.208
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:31.230
+!MESSAGE classpath=171 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:31.244
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-shopping false 171
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:31.244
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:08:31.261
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:17.385
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:17.405
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:17.409
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-registry false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:17.410
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:17.664
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:23.386
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:23.392
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:23.402
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-registry false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:23.404
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:06:23.418
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:38.904
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:38.938
+!MESSAGE classpath=133 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:38.981
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-registry false 133
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:38.981
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:38.992
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-09-28 15:07:40.353
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-09-28 15:07:40.354
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-09-28 15:07:40.354
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:54.805
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:54.814
+!MESSAGE classpath=133 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:54.822
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-registry false 133
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:54.822
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:07:54.831
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-09-28 15:07:56.370
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-09-28 15:07:56.370
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-09-28 15:07:56.370
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:08:20.438
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:08:20.467
+!MESSAGE classpath=133 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:08:20.474
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-registry false 133
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:08:20.475
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:08:20.485
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:14:33.394
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:14:33.404
+!MESSAGE classpath=134 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:14:33.409
+!MESSAGE buffering callback sts4.classpath.HVTCQQXu service-registry false 134
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:14:33.410
+!MESSAGE executing callback sts4.classpath.HVTCQQXu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 15:14:33.420
+!MESSAGE executing callback sts4.classpath.HVTCQQXu SUCCESS [done]
